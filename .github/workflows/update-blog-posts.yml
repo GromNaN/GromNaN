@@ -1,0 +1,23 @@
+name: Update blog posts
+
+on:
+  schedule:
+    # Runs every day at 8am UTC
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/gromnan"
+          max_post_count: 5
+          readme_path: README.md
+          template: "[$title]($url)\n"
+          comment_tag_name: "BLOG-POST-LIST"
