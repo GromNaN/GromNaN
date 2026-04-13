@@ -16,8 +16,7 @@ I maintain the bridge between the PHP ecosystem and MongoDB.
 
 ### 📝 Latest articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[Déboguer un segfault dans une extension PHP/C : l&#39;histoire d&#39;un pointeur fantôme](https://dev.to/gromnan/deboguer-un-segfault-dans-une-extension-phpc-lhistoire-dun-pointeur-fantome-50af)[Andreas turned massive analytical tasks into lightning-fast reads using the Bucket Pattern on a giant MongoDB dataset.](https://dev.to/gromnan/andreas-turned-massive-analytical-tasks-into-lightning-fast-reads-using-the-bucket-pattern-on-a-4o76)[Searching in a database from image and text, made easy thanks to Symfony AI, MongoDB and Voyage AI.](https://dev.to/gromnan/searching-in-a-database-from-image-and-text-made-easy-thanks-to-symfony-ai-mongodb-and-voyage-ai-17gk)[[Boost]](https://dev.to/gromnan/-3o0l)[[Boost]](https://dev.to/gromnan/-5c9g)<!-- BLOG-POST-LIST:END -->
 
 ---
 
