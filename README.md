@@ -7,6 +7,8 @@ I maintain the bridge between the PHP ecosystem and MongoDB.
 
 ### 🔧 What I work on
 
+- [`mongodb/mongodb`](https://github.com/mongodb/mongo-php-library) — The official PHP MongoDB Client Library
+- [`ext-mongodb`](https://github.com/mongodb/mongo-php-driver) — The official PHP MongoDB Driver Extension
 - [`mongodb/laravel-mongodb`](https://github.com/mongodb/laravel-mongodb) — Eloquent model & Query builder for Laravel
 - [`doctrine/mongodb-odm`](https://github.com/doctrine/mongodb-odm) — The official PHP MongoDB ODM
 - [`mongodb-labs/symfony-mongodb`](https://github.com/mongodb-labs/symfony-mongodb) — Lightweight MongoDB integration for Symfony
